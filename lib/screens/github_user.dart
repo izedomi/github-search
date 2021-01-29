@@ -118,7 +118,6 @@ class _GithubSearchScreenState extends State<GithubSearchScreen> {
 
     githubSearch(){
 
-          print(username);
           if(username == null || username.trim().length == 0){
 
               displayDialog(
