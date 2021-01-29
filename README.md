@@ -2,8 +2,8 @@
 A simple mobile application that implements Github search functionality
 
 ## Login Details
-Emai: ema@gmail.com
-Password: emmanuel
+- Emai: ema@gmail.com
+- Password: emmanuel
 
 ## FUNCTIONALITES
 
@@ -19,7 +19,7 @@ As a user,
 Search
 - https://api.github.com/search/users?q={username}&page={page}&per_page={per_page}
 
-Find User
+Get User Details
 - https://api.github.com/users/{username}
 
 
