@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "171558060776",
+    "firebase_url": "https://luxyvest-63fb0.firebaseio.com",
+    "project_id": "luxyvest-63fb0",
+    "storage_bucket": "luxyvest-63fb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171558060776:android:a7d7b829bb251918e7bf5d",
+        "android_client_info": {
+          "package_name": "com.mobile.luxyvest.GitHubSearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171558060776-6c8uuedgtmbp9rg4iah905ajr1sk6c38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSzovlVlKrcGrV6clFibWmX6gi0m1Jn0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171558060776-6c8uuedgtmbp9rg4iah905ajr1sk6c38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
